@@ -10,6 +10,6 @@ Based in Brazil 🇧🇷 | Experience in Japan 🇯🇵 & Australia 🇦🇺
 - Interested in web development, product-focused applications, and clean code
 - Actively looking for junior developer opportunities
 
-## 📫 Contact
+## 👤 Contact
 
 - LinkedIn: https://linkedin.com/in/kenji-sakamoto
