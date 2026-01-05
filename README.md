@@ -12,4 +12,4 @@ Based in Brazil 🇧🇷 | Experience in Japan 🇯🇵 & Australia 🇦🇺
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/yourprofile
+- LinkedIn: https://linkedin.com/in/kenji-sakamoto
