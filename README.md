@@ -13,3 +13,5 @@ Based in Brazil 🇧🇷 | Experience in Japan 🇯🇵 & Australia 🇦🇺
 ## 👤 Contact
 
 - LinkedIn: https://linkedin.com/in/kenji-sakamoto
+- Portfolio: https://guilherme-kenji-portfolio-e000c64fc5db.herokuapp.com/
+- Instagram: https://www.instagram.com/guilheto/
